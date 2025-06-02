@@ -1,0 +1,12 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+langdetect>=1.0.9
+googletrans>=3.1.0
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+pandas>=2.1.0
+psycopg2-binary>=2.9.9  # For PostgreSQL connection
+asyncio>=3.4.3
+aiohttp>=3.9.0  # Required by newer versions of googletrans
+python-dateutil>=2.8.2  # For date handling
+googletrans==4.0.0rc1
